@@ -12,6 +12,8 @@ public class Student {
 
         System.out.println("merhaba 4 ");
 
+        System.out.println("merhaba  5");
+
     }
 
 }
