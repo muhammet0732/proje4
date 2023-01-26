@@ -6,8 +6,12 @@ public class Student {
 
         System.out.println("Merhaba 1");
 
-
-
         System.out.println("tekrardan merhaba");
+
+        System.out.println("merhaba 3");
+
+        System.out.println("merhaba 4 ");
+
     }
+
 }
